@@ -94,6 +94,60 @@
         "nonWhitespaceCharacterCount": 2,
         "newlineCount": 1
       }
+    },
+    "日常生词本.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 690,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3,
+      "characterCount": 2823,
+      "nonWhitespaceCharacterCount": 2351,
+      "newlineCount": 217,
+      "readingTimeInMinutes": 1.7861509433962266,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773246874148,
+      "modifiedDate": 1773248747783,
+      "sizeInBytes": 3924,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "英语卡片/无所不在.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 95,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 234,
+      "nonWhitespaceCharacterCount": 226,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.2148301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773248657206,
+      "modifiedDate": 1773249008139,
+      "sizeInBytes": 426,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

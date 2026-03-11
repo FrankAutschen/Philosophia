@@ -1,10 +1,11 @@
 [
   "remotely-save",
-  "pkmer",
   "file-explorer-note-count",
   "obsidian-hover-editor",
   "tags-overview",
-  "obsidian-annotator",
   "obsidian-full-calendar",
-  "novel-word-count"
+  "novel-word-count",
+  "editing-toolbar",
+  "colored-text",
+  "pkmer"
 ]
