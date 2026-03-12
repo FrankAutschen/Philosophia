@@ -1,0 +1,67 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "G2KGCutSWjyeTwwcVihkp",
+      "name": "Titian Red",
+      "value": "#d44848"
+    },
+    {
+      "id": "5s71q3XuDduU6o7GGb83R",
+      "name": "Mint Green",
+      "value": "#207f4c"
+    },
+    {
+      "id": "zfYM07dpF4eXiUqF4O6UC",
+      "name": "Klein Blue",
+      "value": "#002fa7"
+    },
+    {
+      "id": "12tgbMCgzA102BzhUh7xc",
+      "name": "Schönbrunn Yellow",
+      "value": "#ffc40c"
+    },
+    {
+      "id": "drn9MDtbXzLq4PzP6z2Md",
+      "name": "Violet Purple",
+      "value": "#733db6"
+    },
+    {
+      "id": "YFWvFprCLqhoxng92ji7y",
+      "name": "Hermes Orange",
+      "value": "#ff6600"
+    },
+    {
+      "id": "npja_-lzW1a3p3I-l3On4",
+      "name": "Vandyke Brown",
+      "value": "#432913"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "伦理学",
+      "color": "zfYM07dpF4eXiUqF4O6UC"
+    },
+    {
+      "path": "神学",
+      "color": "12tgbMCgzA102BzhUh7xc"
+    },
+    {
+      "path": "哲学家",
+      "color": "YFWvFprCLqhoxng92ji7y"
+    },
+    {
+      "path": "哲学论题",
+      "color": "npja_-lzW1a3p3I-l3On4"
+    },
+    {
+      "path": "哲学概念",
+      "color": "npja_-lzW1a3p3I-l3On4"
+    },
+    {
+      "path": "英语学习",
+      "color": "zfYM07dpF4eXiUqF4O6UC"
+    }
+  ]
+}

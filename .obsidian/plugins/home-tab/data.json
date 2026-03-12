@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "伦理学/《伦理学是什么》/第6章  至善论.md",
+      "timestamp": 1773309484406
+    },
+    {
+      "filepath": "伦理学/《伦理学是什么》/第5章  快乐主义.md",
+      "timestamp": 1773309482853
+    },
+    {
+      "filepath": "伦理学/《伦理学是什么》/第4章  神命观.md",
+      "timestamp": 1773309479610
+    },
+    {
+      "filepath": "伦理学/《简明元伦理学导论》/第8章  重申元伦理学.md",
+      "timestamp": 1773309391607
+    },
+    {
+      "filepath": "伦理学/《简明元伦理学导论》/第7章  难以被传统术语归类的理论.md",
+      "timestamp": 1773309388340
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
