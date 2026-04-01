@@ -34,6 +34,9 @@ n.演化关系,进化史
 
 # **List**  **7**
 
+**abject**
+a.悲惨的;下贱的
+
 **aerosol** 
 n.气溶胶
 
@@ -99,6 +102,9 @@ n.下落
 
 # List  8
 
+**aerobics**
+n.有氧运动;健身操
+
 **amicable** 
 n.和蔼的,亲善的
 
@@ -106,10 +112,19 @@ n.和蔼的,亲善的
 n.自满,骄傲
 
 **conciliator**  
-n.调解员安抚者
+n.调解员,安抚者
 
 **destitute**  
 a.缺乏的,没有生计手段的
+
+**detour**
+v.绕道,离题
+
+**exhortation**
+n.劝告
+
+**gag**
+v.往嘴里塞;笑话
 
 **inoculate**  
 v.打疫苗
@@ -117,23 +132,60 @@ v.打疫苗
 **pervert**  
 v.滥用,误用
 
+**protocol**
+n.协定,条约
+
 **recalcitrant**  
 a.反抗权威的
 
-**shirk**  
+**==shirk==**  
 v.因懒惰或懦弱而逃避
 
-**subliminal** 
+**===subliminal ===**
 a.潜意识的
 
 **subvert**  
 v.推翻,颠覆
 
-*辨析*
+**tulip**
+n.郁金香
+【[[花卉英文]]】
 
+*辨析*
 **pluck** & **plug**
 前者是拔，后者是塞
+
+*熟词生义*
+**teeth**
+n.(法律或组织的)强大有效
 # List  9
 
+**banish**
+v.流放;忘却
+
+**conjure**
+v.变戏法
+
+**ooze**
+n.淤泥
+v.渗出
+
+**proceeding**
+n.过程;起诉;记录
+
+**putrid**
+a.腐败的,腐烂的
+
+**qualm**
+n.不安,自我怀疑
+
+**reimburse**
+v.偿还
+
+**remit**
+v.赦免,缓和
+
+**scuttle**
+v.仓促逃跑
 
 # List  10
