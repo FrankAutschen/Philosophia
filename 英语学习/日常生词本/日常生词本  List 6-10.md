@@ -129,7 +129,7 @@ v.往嘴里塞;笑话
 **inoculate**  
 v.打疫苗
 
-**pervert**  
+==**pervert**==
 v.滥用,误用
 
 **protocol**
@@ -163,8 +163,32 @@ n.(法律或组织的)强大有效
 **banish**
 v.流放;忘却
 
+**bicker**
+v.(因琐事)争吵
+
+**clemency**
+n.仁慈,宽大
+【[[仁慈]]】
+
 **conjure**
 v.变戏法
+
+**fervent**
+a.热情的
+
+**fugitive**
+a.瞬间的;逃亡的
+n.逃犯
+
+**hamlet**
+n.小村庄
+
+**harp**
+n.竖琴
+
+**leniency**
+n.仁慈,温和
+【[[仁慈]]】
 
 **ooze**
 n.淤泥
@@ -189,3 +213,30 @@ v.赦免,缓和
 v.仓促逃跑
 
 # List  10
+
+**attest**
+v.证明,表明
+
+**cursory**
+a.粗略的,草率的
+
+**niche**
+n.壁龛
+
+**rover**
+n.流浪者,高年级童子军
+
+**tumultuous**
+a.喧嚣的,欢腾的
+
+**turmoil**
+n.骚乱,喧嚣
+
+**undertow**
+n.回浪,退浪
+
+**upheaval**
+n.动乱,大变动
+
+**whittle**
+v.切,削减
