@@ -3,20 +3,20 @@
 **devout**                a.虔诚的,诚心的
 **equity**                 n.股权
 **mustard**             n.芥末
-**prefecture**         n.郡,县
+==**prefecture**==         n.郡,县
 **shard**                 n.(昆虫的)鞘翅
 **spinach**             n.菠菜
 **stray**                  v.迷失,离群
 
 # **List**  **2**
 
-<font color="#ff0000">anomalous</font>               a.反常的
-<font color="#ff0000">configuration</font>           n.轮廓;外形
+anomalous               a.反常的
+configuration           n.轮廓;外形
 **construe**                  v.(做文法的)解释,翻译
 **exhaustive**              a.全面的，透彻的
 **extraterrestrial**       a.地外的，行星际的
-<font color="#ff0000">immutable</font>               a.不改变的
-<font color="#ff0000">incorrigible</font>              a.不可救药的，固执的
+immutable             a.不改变的
+incorrigible             a.不可救药的，固执的
 **molar**                       n.臼齿，磨牙
 **photon**                    n.光子
 **propensity**              n.倾向,习性
@@ -24,8 +24,8 @@
 **qualia**                      n.感受质
 **rubric**                      n.用红字印刷的，标题规章礼仪重点
 **subdivide**               v.细分,再划分
-<font color="#ff0000">substantival</font>             a.名词的
-<font color="#ff0000">subsume</font>                  v.归入,纳入
+substantival            a.名词的
+subsume                  v.归入,纳入
 **ticklish**                    a.发痒的,难对付的
 **wince**                      n.畏缩,脸部肌肉抽搐
 **fall within**                落入;涉及
@@ -40,7 +40,7 @@
 **afterimage**                    n.残影，余像
 **apex**                              n.顶峰
 **bolt**                                n.螺丝,螺栓
-==**countenance**==            v.支持
+==**countenance**==               v.支持
 **efficacy**                         n.有效性
 **hydraulic**                       a.水力的，液压的
 **interchangable**             a.可交换的,交替的
@@ -65,7 +65,7 @@
 **anatomy**                n.解剖学
 **bypass**                  v.忽视,绕过
 **coincide**                v.一致,符合,同步发生
-<font color="#ff0000">encompass</font>            v.包围
+encompass            v.包围
 **heterogeneous**      a.多种的
 **myriad**                     n\a.无数,大量
 ==**parsimony**==               n.节俭,小气
@@ -74,7 +74,7 @@
 **Reuters**                    n.路透社
 **syntactic**                 a.句法的
 **tacit**                         a.默许的,法定的,缄默的
-**toute**                       v.兜售，鼓吹
+**tout**                       v.兜售，鼓吹
 ==**vernacular**==             a/n.本地话（的）,白话
 
 # **List**  **5**
